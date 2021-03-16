@@ -50,6 +50,7 @@ f
       <name>Maven Repository Manager running on repo.mycompany.com</name>
       <url>http://13.127.94.210:8081/artifactory/list/group/</url>
       <mirrorOf>*</mirrorOf>
+
     </mirror>
     
     
